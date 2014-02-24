@@ -5,7 +5,8 @@ ITP - NYU (Introduction to Computational Media)
 Fall 2013
 michelle.chandra@gmail.com
 
-This sketch was created with help from Dan Shiffman, Profesor at ITP - NYU.
+This sketch was created with as part of my Introduction to Computational Media Course
+at ITP - NYU.
 
 This sketch takes images loaded in data folder to create collages. 
 Any images can be used. Change the size of the window to match
